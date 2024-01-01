@@ -1,0 +1,15 @@
+{
+  "name": "node.js---basics",
+  "version": "1.0.0",
+  "description": "this is the basics of node.js",
+  "main": "nodemodule-1.1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon nodemodule-1.1.js"
+  },
+  "author": "Kesarikumaran S",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
